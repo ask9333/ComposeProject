@@ -67,7 +67,7 @@ private fun PuppyImage(car: Car) {
     Image(
         painter = painterResource(id = car.carImageId),
         contentDescription = null,
-        contentScale = ContentScale.Crop,
+        contentScale = ContentScale.Fit,
         modifier = Modifier
             .padding(8.dp)
             .size(84.dp)
