@@ -8,5 +8,6 @@ data class Car(
     val type: String,
     val year: Int,
     val description: String,
-    val carImageId: Int = 0
+    val carImageId: Int = 0,
+    val rating:Int
 ) : Serializable
