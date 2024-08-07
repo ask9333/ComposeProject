@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Toyota CodingTest</string>
+    <string name="cd">test</string>
+    <string name="type">Type\n</string>
+    <string name="year">Year</string>
+    <string name="personality">Model</string>
+</resources>
